@@ -1,0 +1,14 @@
+D:\Batch_2_2025\DotNet\BASICS\DAY1\bin\Debug\net9.0\DAY1.exe
+D:\Batch_2_2025\DotNet\BASICS\DAY1\bin\Debug\net9.0\DAY1.deps.json
+D:\Batch_2_2025\DotNet\BASICS\DAY1\bin\Debug\net9.0\DAY1.runtimeconfig.json
+D:\Batch_2_2025\DotNet\BASICS\DAY1\bin\Debug\net9.0\DAY1.dll
+D:\Batch_2_2025\DotNet\BASICS\DAY1\bin\Debug\net9.0\DAY1.pdb
+D:\Batch_2_2025\DotNet\BASICS\DAY1\obj\Debug\net9.0\DAY1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch_2_2025\DotNet\BASICS\DAY1\obj\Debug\net9.0\DAY1.AssemblyInfoInputs.cache
+D:\Batch_2_2025\DotNet\BASICS\DAY1\obj\Debug\net9.0\DAY1.AssemblyInfo.cs
+D:\Batch_2_2025\DotNet\BASICS\DAY1\obj\Debug\net9.0\DAY1.csproj.CoreCompileInputs.cache
+D:\Batch_2_2025\DotNet\BASICS\DAY1\obj\Debug\net9.0\DAY1.dll
+D:\Batch_2_2025\DotNet\BASICS\DAY1\obj\Debug\net9.0\refint\DAY1.dll
+D:\Batch_2_2025\DotNet\BASICS\DAY1\obj\Debug\net9.0\DAY1.pdb
+D:\Batch_2_2025\DotNet\BASICS\DAY1\obj\Debug\net9.0\DAY1.genruntimeconfig.cache
+D:\Batch_2_2025\DotNet\BASICS\DAY1\obj\Debug\net9.0\ref\DAY1.dll
