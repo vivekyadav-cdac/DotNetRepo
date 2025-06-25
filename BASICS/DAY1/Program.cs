@@ -1,5 +1,5 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
+﻿using DAY1.InnerNameSpace;
+using System;
 namespace DAY1
 {
     internal class Program
@@ -33,7 +33,7 @@ namespace DAY1
             /*==========================================================================================*/
         }
 
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             LocalFunction localFunction = new LocalFunction();
 
@@ -43,6 +43,23 @@ namespace DAY1
                 //localFunction.InnerFunction() -->> gives error as a local function is implicitly private and not available outside the class
 
             localFunction.SecondOuterFunction();
+
+            //Trying to access static function from LocalFunction class
+            // for this we need to use class name we can't use object to access static function
+
+            //Code:
+            //localFunction.StaticOuterFunction();   --> static member 'member' cannot be accessed with an instance reference;
+            //only a class name can be used to qualify a static variable.
+
+            LocalFunction.StaticOuterFunction();
+        }
+
+        static void Main(string[] args)
+        {
+
+            InnerClass innerClass = new InnerClass();
+
+            innerClass.Inner();
         }
     }
 

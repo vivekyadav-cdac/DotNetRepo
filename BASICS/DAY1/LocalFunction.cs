@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace DAY1
 {
@@ -11,6 +7,7 @@ namespace DAY1
     internal class LocalFunction
     {
         
+        static byte ByteData = 0;
         public void OuterFunction()
         {
             int i = 10;
@@ -72,6 +69,22 @@ namespace DAY1
                 Console.WriteLine("accessing string defined in secondouterfunction by its static local function, string :" + str);
             }
             StaticInnerFunction(str);
+        }
+
+        public static void StaticOuterFunction()
+        {
+            void InnerFunctionOne(byte ByteData)
+            {
+                Console.WriteLine("accesing the static data inside innerfunction "+ ByteData);
+            }
+
+            static void SInnerFunction(byte ByteData)
+            {
+                Console.WriteLine("accesing the static data inside static innerfunction " + ByteData);
+            }
+
+            InnerFunctionOne(ByteData);
+            SInnerFunction(ByteData);
         }
     }
 }
