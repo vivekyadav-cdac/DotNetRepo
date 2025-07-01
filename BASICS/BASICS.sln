@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2.2Inheritance", "Inheri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAY2.3AccessSpecifiersInheritance", "DAY2.3AccessSpecifiersInheritance\DAY2.3AccessSpecifiersInheritance.csproj", "{567D677E-0428-4D70-9B04-1090BC3F1BE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsAssignment", "CollectionsAssignment\CollectionsAssignment.csproj", "{C3BB2C74-11F6-4890-ACC9-7A6572F06667}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{567D677E-0428-4D70-9B04-1090BC3F1BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{567D677E-0428-4D70-9B04-1090BC3F1BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{567D677E-0428-4D70-9B04-1090BC3F1BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3BB2C74-11F6-4890-ACC9-7A6572F06667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BB2C74-11F6-4890-ACC9-7A6572F06667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BB2C74-11F6-4890-ACC9-7A6572F06667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BB2C74-11F6-4890-ACC9-7A6572F06667}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Vivek\\.nuget\\packages\\": {},
+    "C:\\Users\\cdac\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vivek\\dotNet\\BASICS\\DayTwoAssingment\\DayTwoAssingment.csproj",
+      "projectUniqueName": "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\DayTwoAssingment\\DayTwoAssingment.csproj",
       "projectName": "DayTwoAssingment",
-      "projectPath": "C:\\Users\\Vivek\\dotNet\\BASICS\\DayTwoAssingment\\DayTwoAssingment.csproj",
-      "packagesPath": "C:\\Users\\Vivek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vivek\\dotNet\\BASICS\\DayTwoAssingment\\obj\\",
+      "projectPath": "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\DayTwoAssingment\\DayTwoAssingment.csproj",
+      "packagesPath": "C:\\Users\\cdac\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\DayTwoAssingment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Vivek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cdac\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

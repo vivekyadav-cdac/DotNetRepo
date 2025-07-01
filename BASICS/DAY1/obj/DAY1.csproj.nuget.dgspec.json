@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vivek\\dotNet\\BASICS\\DAY1\\DAY1.csproj": {}
+    "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\DAY1\\DAY1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vivek\\dotNet\\BASICS\\DAY1\\DAY1.csproj": {
+    "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\DAY1\\DAY1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vivek\\dotNet\\BASICS\\DAY1\\DAY1.csproj",
+        "projectUniqueName": "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\DAY1\\DAY1.csproj",
         "projectName": "DAY1",
-        "projectPath": "C:\\Users\\Vivek\\dotNet\\BASICS\\DAY1\\DAY1.csproj",
-        "packagesPath": "C:\\Users\\Vivek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vivek\\dotNet\\BASICS\\DAY1\\obj\\",
+        "projectPath": "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\DAY1\\DAY1.csproj",
+        "packagesPath": "C:\\Users\\cdac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\DAY1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vivek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cdac\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
