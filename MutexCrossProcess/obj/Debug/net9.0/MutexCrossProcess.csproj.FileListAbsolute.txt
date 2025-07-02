@@ -1,0 +1,15 @@
+D:\Batch_2_2025\DotNet\MutexCrossProcess\bin\Debug\net9.0\MutexCrossProcess.exe
+D:\Batch_2_2025\DotNet\MutexCrossProcess\bin\Debug\net9.0\MutexCrossProcess.deps.json
+D:\Batch_2_2025\DotNet\MutexCrossProcess\bin\Debug\net9.0\MutexCrossProcess.runtimeconfig.json
+D:\Batch_2_2025\DotNet\MutexCrossProcess\bin\Debug\net9.0\MutexCrossProcess.dll
+D:\Batch_2_2025\DotNet\MutexCrossProcess\bin\Debug\net9.0\MutexCrossProcess.pdb
+D:\Batch_2_2025\DotNet\MutexCrossProcess\obj\Debug\net9.0\MutexCrossProcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch_2_2025\DotNet\MutexCrossProcess\obj\Debug\net9.0\MutexCrossProcess.AssemblyInfoInputs.cache
+D:\Batch_2_2025\DotNet\MutexCrossProcess\obj\Debug\net9.0\MutexCrossProcess.AssemblyInfo.cs
+D:\Batch_2_2025\DotNet\MutexCrossProcess\obj\Debug\net9.0\MutexCrossProcess.csproj.CoreCompileInputs.cache
+D:\Batch_2_2025\DotNet\MutexCrossProcess\obj\Debug\net9.0\MutexCrossProcess.sourcelink.json
+D:\Batch_2_2025\DotNet\MutexCrossProcess\obj\Debug\net9.0\MutexCrossProcess.dll
+D:\Batch_2_2025\DotNet\MutexCrossProcess\obj\Debug\net9.0\refint\MutexCrossProcess.dll
+D:\Batch_2_2025\DotNet\MutexCrossProcess\obj\Debug\net9.0\MutexCrossProcess.pdb
+D:\Batch_2_2025\DotNet\MutexCrossProcess\obj\Debug\net9.0\MutexCrossProcess.genruntimeconfig.cache
+D:\Batch_2_2025\DotNet\MutexCrossProcess\obj\Debug\net9.0\ref\MutexCrossProcess.dll

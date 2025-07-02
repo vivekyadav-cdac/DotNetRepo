@@ -1,0 +1,15 @@
+D:\Batch_2_2025\DotNet\TasksBasic\bin\Debug\net9.0\TasksBasic.exe
+D:\Batch_2_2025\DotNet\TasksBasic\bin\Debug\net9.0\TasksBasic.deps.json
+D:\Batch_2_2025\DotNet\TasksBasic\bin\Debug\net9.0\TasksBasic.runtimeconfig.json
+D:\Batch_2_2025\DotNet\TasksBasic\bin\Debug\net9.0\TasksBasic.dll
+D:\Batch_2_2025\DotNet\TasksBasic\bin\Debug\net9.0\TasksBasic.pdb
+D:\Batch_2_2025\DotNet\TasksBasic\obj\Debug\net9.0\TasksBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch_2_2025\DotNet\TasksBasic\obj\Debug\net9.0\TasksBasic.AssemblyInfoInputs.cache
+D:\Batch_2_2025\DotNet\TasksBasic\obj\Debug\net9.0\TasksBasic.AssemblyInfo.cs
+D:\Batch_2_2025\DotNet\TasksBasic\obj\Debug\net9.0\TasksBasic.csproj.CoreCompileInputs.cache
+D:\Batch_2_2025\DotNet\TasksBasic\obj\Debug\net9.0\TasksBasic.sourcelink.json
+D:\Batch_2_2025\DotNet\TasksBasic\obj\Debug\net9.0\TasksBasic.dll
+D:\Batch_2_2025\DotNet\TasksBasic\obj\Debug\net9.0\refint\TasksBasic.dll
+D:\Batch_2_2025\DotNet\TasksBasic\obj\Debug\net9.0\TasksBasic.pdb
+D:\Batch_2_2025\DotNet\TasksBasic\obj\Debug\net9.0\TasksBasic.genruntimeconfig.cache
+D:\Batch_2_2025\DotNet\TasksBasic\obj\Debug\net9.0\ref\TasksBasic.dll

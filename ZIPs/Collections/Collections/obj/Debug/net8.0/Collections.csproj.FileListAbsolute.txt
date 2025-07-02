@@ -1,0 +1,14 @@
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\Collections\bin\Debug\net8.0\Collections.exe
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\Collections\bin\Debug\net8.0\Collections.deps.json
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\Collections\bin\Debug\net8.0\Collections.runtimeconfig.json
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\Collections\bin\Debug\net8.0\Collections.dll
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\Collections\bin\Debug\net8.0\Collections.pdb
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\Collections\obj\Debug\net8.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\Collections\obj\Debug\net8.0\Collections.AssemblyInfoInputs.cache
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\Collections\obj\Debug\net8.0\Collections.AssemblyInfo.cs
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\Collections\obj\Debug\net8.0\Collections.csproj.CoreCompileInputs.cache
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\Collections\obj\Debug\net8.0\Collections.dll
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\Collections\obj\Debug\net8.0\refint\Collections.dll
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\Collections\obj\Debug\net8.0\Collections.pdb
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\Collections\obj\Debug\net8.0\Collections.genruntimeconfig.cache
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\Collections\obj\Debug\net8.0\ref\Collections.dll
