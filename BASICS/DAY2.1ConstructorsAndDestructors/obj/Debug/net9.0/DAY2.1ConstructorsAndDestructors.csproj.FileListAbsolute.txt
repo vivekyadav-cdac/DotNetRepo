@@ -1,0 +1,15 @@
+C:\Users\Vivek\dotNet\BASICS\DAY2.1ConstructorsAndDestructors\bin\Debug\net9.0\DAY2.1ConstructorsAndDestructors.exe
+C:\Users\Vivek\dotNet\BASICS\DAY2.1ConstructorsAndDestructors\bin\Debug\net9.0\DAY2.1ConstructorsAndDestructors.deps.json
+C:\Users\Vivek\dotNet\BASICS\DAY2.1ConstructorsAndDestructors\bin\Debug\net9.0\DAY2.1ConstructorsAndDestructors.runtimeconfig.json
+C:\Users\Vivek\dotNet\BASICS\DAY2.1ConstructorsAndDestructors\bin\Debug\net9.0\DAY2.1ConstructorsAndDestructors.dll
+C:\Users\Vivek\dotNet\BASICS\DAY2.1ConstructorsAndDestructors\bin\Debug\net9.0\DAY2.1ConstructorsAndDestructors.pdb
+C:\Users\Vivek\dotNet\BASICS\DAY2.1ConstructorsAndDestructors\obj\Debug\net9.0\DAY2.1ConstructorsAndDestructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivek\dotNet\BASICS\DAY2.1ConstructorsAndDestructors\obj\Debug\net9.0\DAY2.1ConstructorsAndDestructors.AssemblyInfoInputs.cache
+C:\Users\Vivek\dotNet\BASICS\DAY2.1ConstructorsAndDestructors\obj\Debug\net9.0\DAY2.1ConstructorsAndDestructors.AssemblyInfo.cs
+C:\Users\Vivek\dotNet\BASICS\DAY2.1ConstructorsAndDestructors\obj\Debug\net9.0\DAY2.1ConstructorsAndDestructors.csproj.CoreCompileInputs.cache
+C:\Users\Vivek\dotNet\BASICS\DAY2.1ConstructorsAndDestructors\obj\Debug\net9.0\DAY2.1ConstructorsAndDestructors.sourcelink.json
+C:\Users\Vivek\dotNet\BASICS\DAY2.1ConstructorsAndDestructors\obj\Debug\net9.0\DAY2.1ConstructorsAndDestructors.dll
+C:\Users\Vivek\dotNet\BASICS\DAY2.1ConstructorsAndDestructors\obj\Debug\net9.0\refint\DAY2.1ConstructorsAndDestructors.dll
+C:\Users\Vivek\dotNet\BASICS\DAY2.1ConstructorsAndDestructors\obj\Debug\net9.0\DAY2.1ConstructorsAndDestructors.pdb
+C:\Users\Vivek\dotNet\BASICS\DAY2.1ConstructorsAndDestructors\obj\Debug\net9.0\DAY2.1ConstructorsAndDestructors.genruntimeconfig.cache
+C:\Users\Vivek\dotNet\BASICS\DAY2.1ConstructorsAndDestructors\obj\Debug\net9.0\ref\DAY2.1ConstructorsAndDestructors.dll

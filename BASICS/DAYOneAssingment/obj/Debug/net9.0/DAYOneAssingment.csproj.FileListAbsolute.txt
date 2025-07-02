@@ -1,0 +1,15 @@
+C:\Users\Vivek\dotNet\BASICS\DAYOneAssingment\bin\Debug\net9.0\DAYOneAssingment.exe
+C:\Users\Vivek\dotNet\BASICS\DAYOneAssingment\bin\Debug\net9.0\DAYOneAssingment.deps.json
+C:\Users\Vivek\dotNet\BASICS\DAYOneAssingment\bin\Debug\net9.0\DAYOneAssingment.runtimeconfig.json
+C:\Users\Vivek\dotNet\BASICS\DAYOneAssingment\bin\Debug\net9.0\DAYOneAssingment.dll
+C:\Users\Vivek\dotNet\BASICS\DAYOneAssingment\bin\Debug\net9.0\DAYOneAssingment.pdb
+C:\Users\Vivek\dotNet\BASICS\DAYOneAssingment\obj\Debug\net9.0\DAYOneAssingment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivek\dotNet\BASICS\DAYOneAssingment\obj\Debug\net9.0\DAYOneAssingment.AssemblyInfoInputs.cache
+C:\Users\Vivek\dotNet\BASICS\DAYOneAssingment\obj\Debug\net9.0\DAYOneAssingment.AssemblyInfo.cs
+C:\Users\Vivek\dotNet\BASICS\DAYOneAssingment\obj\Debug\net9.0\DAYOneAssingment.csproj.CoreCompileInputs.cache
+C:\Users\Vivek\dotNet\BASICS\DAYOneAssingment\obj\Debug\net9.0\DAYOneAssingment.sourcelink.json
+C:\Users\Vivek\dotNet\BASICS\DAYOneAssingment\obj\Debug\net9.0\DAYOneAssingment.dll
+C:\Users\Vivek\dotNet\BASICS\DAYOneAssingment\obj\Debug\net9.0\refint\DAYOneAssingment.dll
+C:\Users\Vivek\dotNet\BASICS\DAYOneAssingment\obj\Debug\net9.0\DAYOneAssingment.pdb
+C:\Users\Vivek\dotNet\BASICS\DAYOneAssingment\obj\Debug\net9.0\DAYOneAssingment.genruntimeconfig.cache
+C:\Users\Vivek\dotNet\BASICS\DAYOneAssingment\obj\Debug\net9.0\ref\DAYOneAssingment.dll
