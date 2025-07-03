@@ -1,0 +1,49 @@
+﻿using Microsoft.Data.SqlClient;
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DataBase
+{
+    internal class SelectMultipleValues
+    {
+        public static void SelectMulVal(Employee emp)
+        {
+            SqlConnection cn = new SqlConnection();
+            cn.ConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ACTSJUNE25;Integrated Security=True";
+
+            try
+            {
+                cn.Open();
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = cn;
+
+                cmd.CommandType = CommandType.Text;
+                cmd.CommandText = "select * from Employees";
+
+               SqlDataReader dr = cmd.ExecuteReader();
+
+                while (dr.Read())
+                {
+                    Console.WriteLine(dr[1]);
+                    Console.WriteLine(dr["Name"]);
+                }
+                dr.Close();
+
+                Console.WriteLine("Success");
+
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            finally
+            {
+                cn.Close();
+            }
+        }
+    }
+}
