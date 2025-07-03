@@ -1,0 +1,15 @@
+C:\Users\Vivek\dotNet\BASICS\DAY1.1\bin\Debug\net9.0\DAY1.1.exe
+C:\Users\Vivek\dotNet\BASICS\DAY1.1\bin\Debug\net9.0\DAY1.1.deps.json
+C:\Users\Vivek\dotNet\BASICS\DAY1.1\bin\Debug\net9.0\DAY1.1.runtimeconfig.json
+C:\Users\Vivek\dotNet\BASICS\DAY1.1\bin\Debug\net9.0\DAY1.1.dll
+C:\Users\Vivek\dotNet\BASICS\DAY1.1\bin\Debug\net9.0\DAY1.1.pdb
+C:\Users\Vivek\dotNet\BASICS\DAY1.1\obj\Debug\net9.0\DAY1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivek\dotNet\BASICS\DAY1.1\obj\Debug\net9.0\DAY1.1.AssemblyInfoInputs.cache
+C:\Users\Vivek\dotNet\BASICS\DAY1.1\obj\Debug\net9.0\DAY1.1.AssemblyInfo.cs
+C:\Users\Vivek\dotNet\BASICS\DAY1.1\obj\Debug\net9.0\DAY1.1.csproj.CoreCompileInputs.cache
+C:\Users\Vivek\dotNet\BASICS\DAY1.1\obj\Debug\net9.0\DAY1.1.sourcelink.json
+C:\Users\Vivek\dotNet\BASICS\DAY1.1\obj\Debug\net9.0\DAY1.1.dll
+C:\Users\Vivek\dotNet\BASICS\DAY1.1\obj\Debug\net9.0\refint\DAY1.1.dll
+C:\Users\Vivek\dotNet\BASICS\DAY1.1\obj\Debug\net9.0\DAY1.1.pdb
+C:\Users\Vivek\dotNet\BASICS\DAY1.1\obj\Debug\net9.0\DAY1.1.genruntimeconfig.cache
+C:\Users\Vivek\dotNet\BASICS\DAY1.1\obj\Debug\net9.0\ref\DAY1.1.dll

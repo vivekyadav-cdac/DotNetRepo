@@ -1,0 +1,14 @@
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.AssemblyInfoInputs.cache
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.AssemblyInfo.cs
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.exe
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.deps.json
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.runtimeconfig.json
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.dll
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.pdb
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.dll
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\InheritanceAssignment\obj\Debug\net8.0\refint\InheritanceAssignment.dll
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.pdb
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.genruntimeconfig.cache
+C:\Users\dac\Desktop\NT_assignment\.NET\CORE\InheritanceAssignment\obj\Debug\net8.0\ref\InheritanceAssignment.dll

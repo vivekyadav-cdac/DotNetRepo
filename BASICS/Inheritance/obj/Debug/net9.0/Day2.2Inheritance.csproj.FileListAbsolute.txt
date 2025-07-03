@@ -1,0 +1,15 @@
+C:\Users\Vivek\dotNet\BASICS\Inheritance\bin\Debug\net9.0\Day2.2Inheritance.exe
+C:\Users\Vivek\dotNet\BASICS\Inheritance\bin\Debug\net9.0\Day2.2Inheritance.deps.json
+C:\Users\Vivek\dotNet\BASICS\Inheritance\bin\Debug\net9.0\Day2.2Inheritance.runtimeconfig.json
+C:\Users\Vivek\dotNet\BASICS\Inheritance\bin\Debug\net9.0\Day2.2Inheritance.dll
+C:\Users\Vivek\dotNet\BASICS\Inheritance\bin\Debug\net9.0\Day2.2Inheritance.pdb
+C:\Users\Vivek\dotNet\BASICS\Inheritance\obj\Debug\net9.0\Day2.2Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivek\dotNet\BASICS\Inheritance\obj\Debug\net9.0\Day2.2Inheritance.AssemblyInfoInputs.cache
+C:\Users\Vivek\dotNet\BASICS\Inheritance\obj\Debug\net9.0\Day2.2Inheritance.AssemblyInfo.cs
+C:\Users\Vivek\dotNet\BASICS\Inheritance\obj\Debug\net9.0\Day2.2Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Vivek\dotNet\BASICS\Inheritance\obj\Debug\net9.0\Day2.2Inheritance.sourcelink.json
+C:\Users\Vivek\dotNet\BASICS\Inheritance\obj\Debug\net9.0\Day2.2Inheritance.dll
+C:\Users\Vivek\dotNet\BASICS\Inheritance\obj\Debug\net9.0\refint\Day2.2Inheritance.dll
+C:\Users\Vivek\dotNet\BASICS\Inheritance\obj\Debug\net9.0\Day2.2Inheritance.pdb
+C:\Users\Vivek\dotNet\BASICS\Inheritance\obj\Debug\net9.0\Day2.2Inheritance.genruntimeconfig.cache
+C:\Users\Vivek\dotNet\BASICS\Inheritance\obj\Debug\net9.0\ref\Day2.2Inheritance.dll
