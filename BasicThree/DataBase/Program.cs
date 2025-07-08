@@ -2,9 +2,16 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
-            ConnectionCheck.Connect();
+            //ConnectionCheck.Connect();
+            //Employee employee = new Employee { EmpNo = 9,Name = "Maruti",Basic = 120000.0m,DeptNo = 10};
+            //await AsyncConnection.AsyncCommand(employee);
+
+            //await AsyncDataConnectionWithNonWaitingCode.AsyncSelectReader("select * from Employees");
+            //Console.ReadLine();
+
+            DataTableDataSet.CrudUsingDataSet();
         }
     }
 

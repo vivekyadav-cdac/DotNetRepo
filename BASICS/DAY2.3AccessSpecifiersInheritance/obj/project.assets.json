@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\cdac\\.nuget\\packages\\": {},
+    "C:\\Users\\Vivek\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\DAY2.3AccessSpecifiersInheritance\\DAY2.3AccessSpecifiersInheritance.csproj",
+      "projectUniqueName": "C:\\Users\\Vivek\\source\\repos\\DotNetRepo\\BASICS\\DAY2.3AccessSpecifiersInheritance\\DAY2.3AccessSpecifiersInheritance.csproj",
       "projectName": "DAY2.3AccessSpecifiersInheritance",
-      "projectPath": "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\DAY2.3AccessSpecifiersInheritance\\DAY2.3AccessSpecifiersInheritance.csproj",
-      "packagesPath": "C:\\Users\\cdac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\DAY2.3AccessSpecifiersInheritance\\obj\\",
+      "projectPath": "C:\\Users\\Vivek\\source\\repos\\DotNetRepo\\BASICS\\DAY2.3AccessSpecifiersInheritance\\DAY2.3AccessSpecifiersInheritance.csproj",
+      "packagesPath": "C:\\Users\\Vivek\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vivek\\source\\repos\\DotNetRepo\\BASICS\\DAY2.3AccessSpecifiersInheritance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\cdac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vivek\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

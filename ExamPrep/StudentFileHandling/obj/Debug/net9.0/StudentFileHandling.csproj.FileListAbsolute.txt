@@ -1,0 +1,15 @@
+C:\Users\Vivek\source\repos\DotNetRepo\ExamPrep\StudentFileHandling\bin\Debug\net9.0\StudentFileHandling.exe
+C:\Users\Vivek\source\repos\DotNetRepo\ExamPrep\StudentFileHandling\bin\Debug\net9.0\StudentFileHandling.deps.json
+C:\Users\Vivek\source\repos\DotNetRepo\ExamPrep\StudentFileHandling\bin\Debug\net9.0\StudentFileHandling.runtimeconfig.json
+C:\Users\Vivek\source\repos\DotNetRepo\ExamPrep\StudentFileHandling\bin\Debug\net9.0\StudentFileHandling.dll
+C:\Users\Vivek\source\repos\DotNetRepo\ExamPrep\StudentFileHandling\bin\Debug\net9.0\StudentFileHandling.pdb
+C:\Users\Vivek\source\repos\DotNetRepo\ExamPrep\StudentFileHandling\obj\Debug\net9.0\StudentFileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivek\source\repos\DotNetRepo\ExamPrep\StudentFileHandling\obj\Debug\net9.0\StudentFileHandling.AssemblyInfoInputs.cache
+C:\Users\Vivek\source\repos\DotNetRepo\ExamPrep\StudentFileHandling\obj\Debug\net9.0\StudentFileHandling.AssemblyInfo.cs
+C:\Users\Vivek\source\repos\DotNetRepo\ExamPrep\StudentFileHandling\obj\Debug\net9.0\StudentFileHandling.csproj.CoreCompileInputs.cache
+C:\Users\Vivek\source\repos\DotNetRepo\ExamPrep\StudentFileHandling\obj\Debug\net9.0\StudentFileHandling.sourcelink.json
+C:\Users\Vivek\source\repos\DotNetRepo\ExamPrep\StudentFileHandling\obj\Debug\net9.0\StudentFileHandling.dll
+C:\Users\Vivek\source\repos\DotNetRepo\ExamPrep\StudentFileHandling\obj\Debug\net9.0\refint\StudentFileHandling.dll
+C:\Users\Vivek\source\repos\DotNetRepo\ExamPrep\StudentFileHandling\obj\Debug\net9.0\StudentFileHandling.pdb
+C:\Users\Vivek\source\repos\DotNetRepo\ExamPrep\StudentFileHandling\obj\Debug\net9.0\StudentFileHandling.genruntimeconfig.cache
+C:\Users\Vivek\source\repos\DotNetRepo\ExamPrep\StudentFileHandling\obj\Debug\net9.0\ref\StudentFileHandling.dll

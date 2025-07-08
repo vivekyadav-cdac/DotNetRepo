@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\DAYOneAssingment\\DAYOneAssingment.csproj": {}
+    "C:\\Users\\Vivek\\source\\repos\\DotNetRepo\\BASICS\\DAYOneAssingment\\DAYOneAssingment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\DAYOneAssingment\\DAYOneAssingment.csproj": {
+    "C:\\Users\\Vivek\\source\\repos\\DotNetRepo\\BASICS\\DAYOneAssingment\\DAYOneAssingment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\DAYOneAssingment\\DAYOneAssingment.csproj",
+        "projectUniqueName": "C:\\Users\\Vivek\\source\\repos\\DotNetRepo\\BASICS\\DAYOneAssingment\\DAYOneAssingment.csproj",
         "projectName": "DAYOneAssingment",
-        "projectPath": "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\DAYOneAssingment\\DAYOneAssingment.csproj",
-        "packagesPath": "C:\\Users\\cdac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\DAYOneAssingment\\obj\\",
+        "projectPath": "C:\\Users\\Vivek\\source\\repos\\DotNetRepo\\BASICS\\DAYOneAssingment\\DAYOneAssingment.csproj",
+        "packagesPath": "C:\\Users\\Vivek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vivek\\source\\repos\\DotNetRepo\\BASICS\\DAYOneAssingment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cdac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vivek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

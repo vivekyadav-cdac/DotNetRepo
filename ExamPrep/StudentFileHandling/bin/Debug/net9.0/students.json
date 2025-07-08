@@ -1,0 +1,14 @@
+[
+  {
+    "RollNo": 1,
+    "Name": "vivek",
+    "Subject": "Physics",
+    "Marks": 86
+  },
+  {
+    "RollNo": 2,
+    "Name": "Sandy",
+    "Subject": "Hindi",
+    "Marks": 95
+  }
+]

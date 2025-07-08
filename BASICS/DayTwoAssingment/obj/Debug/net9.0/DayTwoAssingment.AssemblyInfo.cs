@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DayTwoAssingment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b47b984b1a14f4bf10266fd4de6d645e7879ae8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03bada1c3276786c83e65f0799e0a34fb6cdc553")]
 [assembly: System.Reflection.AssemblyProductAttribute("DayTwoAssingment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DayTwoAssingment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

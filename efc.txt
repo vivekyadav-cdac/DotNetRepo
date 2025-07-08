@@ -1,0 +1,66 @@
+Scaffold-DbContext "Server=(localdb)\MSSQLLocalDB;Database=StudentDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Context StudentDbContext -DataAnnotations
+
+
+✅ Steps for Database-First (DB First) CRUD in ASP.NET Core MVC
+🔧 Step 1: Create ASP.NET Core MVC Project
+Create a new ASP.NET Core MVC project in Visual Studio:
+
+Template: ASP.NET Core Web App (Model-View-Controller)
+
+Target Framework: .NET 6/7/8+
+
+No Authentication needed
+
+
+🛠️ Step 2: Install EF Core Packages
+Run this in the Package Manager Console:
+
+bash
+Copy
+Edit
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+Install-Package Microsoft.EntityFrameworkCore.Tools
+
+📥 Step 3: Reverse Engineer the Database (Scaffold)
+Use the following command in Package Manager Console:
+
+bash
+Copy
+Edit
+Scaffold-DbContext "Server=(localdb)\MSSQLLocalDB;Database=StudentDB;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Context StudentDbContext -DataAnnotations
+
+
+🧠 Step 4: Register DbContext in Program.cs
+csharp
+Copy
+Edit
+builder.Services.AddDbContext<StudentDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+And in appsettings.json:
+
+json
+Copy
+Edit
+"ConnectionStrings": {
+  "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=StudentDB;Trusted_Connection=True;"
+}
+
+🎮 Step 5: Create Controller + Views Using Scaffolding
+Right-click Controllers → Add → New Scaffolded Item
+
+Choose: MVC Controller with views, using Entity Framework
+
+Select:
+
+Model class: Student
+
+Data context class: StudentDbContext
+
+Click Add
+
+This generates:
+
+StudentController.cs
+
+Views: Index.cshtml, Create.cshtml, Edit.cshtml, Delete.cshtml, Details.cshtml
+

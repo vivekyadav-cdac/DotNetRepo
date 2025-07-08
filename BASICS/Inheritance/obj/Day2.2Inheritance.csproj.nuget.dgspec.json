@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\Inheritance\\Day2.2Inheritance.csproj": {}
+    "C:\\Users\\Vivek\\source\\repos\\DotNetRepo\\BASICS\\Inheritance\\Day2.2Inheritance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\Inheritance\\Day2.2Inheritance.csproj": {
+    "C:\\Users\\Vivek\\source\\repos\\DotNetRepo\\BASICS\\Inheritance\\Day2.2Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\Inheritance\\Day2.2Inheritance.csproj",
+        "projectUniqueName": "C:\\Users\\Vivek\\source\\repos\\DotNetRepo\\BASICS\\Inheritance\\Day2.2Inheritance.csproj",
         "projectName": "Day2.2Inheritance",
-        "projectPath": "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\Inheritance\\Day2.2Inheritance.csproj",
-        "packagesPath": "C:\\Users\\cdac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cdac\\Source\\Repos\\DotNetRepo\\BASICS\\Inheritance\\obj\\",
+        "projectPath": "C:\\Users\\Vivek\\source\\repos\\DotNetRepo\\BASICS\\Inheritance\\Day2.2Inheritance.csproj",
+        "packagesPath": "C:\\Users\\Vivek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vivek\\source\\repos\\DotNetRepo\\BASICS\\Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cdac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vivek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

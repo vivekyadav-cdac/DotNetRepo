@@ -1,0 +1,15 @@
+✅ Safe to Delete
+Folder / File	Description
+bin/	Contains compiled output — will be regenerated on build.
+obj/	Intermediate build files — also regenerated.
+.vs/	Visual Studio temporary settings and cache.
+*.user / *.suo	User-specific settings — not needed for sharing.
+*.log / *.tlog	Build logs — safe to remove.
+wwwroot/lib/ (if using LibMan)	Libraries can be restored via LibMan (libman.json).
+
+🚫 Do NOT Delete
+Folder / File	Reason
+Controllers/, Views/, Models/	Core application code.
+appsettings.json, Program.cs, Startup.cs	Essential app config & bootstrap code.
+project.csproj, .sln	Required to open and build the project.
+wwwroot/ (except /lib/ inside it)	Static assets like CSS/JS/images — usually app-specific.

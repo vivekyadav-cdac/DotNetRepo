@@ -1,0 +1,121 @@
+📘 SCENARIO-WISE PLINQ EXAMPLES
+1️⃣ Filter students with high marks
+csharp
+Copy
+Edit
+var toppers = students
+    .AsParallel()
+    .Where(s => s.Marks >= 90)
+    .ToList();
+2️⃣ Sort students by marks descending
+csharp
+Copy
+Edit
+var sortedByMarks = students
+    .AsParallel()
+    .OrderByDescending(s => s.Marks)
+    .ToList();
+3️⃣ Group students by subject
+csharp
+Copy
+Edit
+var groupedBySubject = students
+    .AsParallel()
+    .GroupBy(s => s.Subject)
+    .ToList();
+
+foreach (var group in groupedBySubject)
+{
+    Console.WriteLine($"Subject: {group.Key}");
+    foreach (var student in group)
+    {
+        Console.WriteLine($"  {student.Name} - {student.Marks}");
+    }
+}
+4️⃣ Find average marks per subject
+csharp
+Copy
+Edit
+var avgPerSubject = students
+    .AsParallel()
+    .GroupBy(s => s.Subject)
+    .Select(g => new
+    {
+        Subject = g.Key,
+        AverageMarks = g.Average(s => s.Marks)
+    }).ToList();
+5️⃣ Get distinct subjects in parallel
+csharp
+Copy
+Edit
+var distinctSubjects = students
+    .AsParallel()
+    .Select(s => s.Subject)
+    .Distinct()
+    .ToList();
+6️⃣ Find student with maximum marks
+csharp
+Copy
+Edit
+var topStudent = students
+    .AsParallel()
+    .OrderByDescending(s => s.Marks)
+    .FirstOrDefault();
+7️⃣ Join with another collection (e.g., subject details)
+Assume another list:
+
+csharp
+Copy
+Edit
+var subjects = new List<(string Name, string Faculty)>
+{
+    ("Maths", "Dr. Meena"),
+    ("Physics", "Dr. Rajan")
+};
+
+var studentWithFaculty = students
+    .AsParallel()
+    .Join(subjects,
+        s => s.Subject,
+        sub => sub.Name,
+        (s, sub) => new
+        {
+            s.RollNo,
+            s.Name,
+            s.Subject,
+            s.Marks,
+            Faculty = sub.Faculty
+        }).ToList();
+8️⃣ Count of students per subject
+csharp
+Copy
+Edit
+var subjectCounts = students
+    .AsParallel()
+    .GroupBy(s => s.Subject)
+    .Select(g => new
+    {
+        Subject = g.Key,
+        Count = g.Count()
+    }).ToList();
+9️⃣ Filter and project (anonymous object)
+csharp
+Copy
+Edit
+var summary = students
+    .AsParallel()
+    .Where(s => s.Marks > 75)
+    .Select(s => new
+    {
+        s.Name,
+        s.Subject,
+        Grade = s.Marks > 90 ? "A+" :
+                s.Marks > 80 ? "A" : "B"
+    }).ToList();
+🔟 Parallel Aggregation: Total marks
+csharp
+Copy
+Edit
+var totalMarks = students
+    .AsParallel()
+    .Sum(s => s.Marks);
